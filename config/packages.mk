@@ -5,6 +5,10 @@ PRODUCT_PACKAGES += \
     LiveWallpapersPicker \
     ThemePicker
 
+# DerpFest packages
+PRODUCT_PACKAGES += \
+    Eleven
+
 # Filesystems tools
 PRODUCT_PACKAGES += \
     fsck.exfat \
