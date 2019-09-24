@@ -12,6 +12,10 @@ PRODUCT_PACKAGES += \
     Recorder \
     WallpapersBReel2018
 
+# JamesDSP
+PRODUCT_PACKAGES += \
+   libjamesdsp
+
 # Filesystems tools
 PRODUCT_PACKAGES += \
     fsck.exfat \
