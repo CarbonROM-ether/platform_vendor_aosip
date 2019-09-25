@@ -7,7 +7,8 @@ PRODUCT_PACKAGES += \
 
 # DerpFest packages
 PRODUCT_PACKAGES += \
-    Eleven
+    Eleven \
+    Recorder
 
 # Filesystems tools
 PRODUCT_PACKAGES += \
@@ -36,3 +37,7 @@ PRODUCT_PACKAGES += \
     AccentColorFlatPinkOverlay \
     AccentColorCyanOverlay \
     AccentColorBlueGrayOverlay
+
+# Some permissions
+PRODUCT_COPY_FILES += \
+    vendor/aosip/prebuilt/common/etc/permissions/privapp-permissions-recorder.xml:system/etc/permissions/privapp-permissions-recorder.xml
