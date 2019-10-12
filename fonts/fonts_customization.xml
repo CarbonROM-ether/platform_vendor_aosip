@@ -46,4 +46,11 @@
       <font weight="700" style="italic">Arvo-BoldItalic.ttf</font>
     </family>
     <alias name="arvo-bold" to="arvo" weight="700" />
+
+    <family customizationType="new-named-family" name="anaheim">
+      <font weight="400" style="normal">Anaheim-Regular.ttf</font>
+      <font weight="600" style="normal">Anaheim-SemiBold.ttf</font>
+      <font weight="700" style="normal">Anaheim-Bold.ttf</font>
+    </family>
+    <alias name="anaheim-bold" to="anaheim" weight="700" />
 </fonts-modification>
