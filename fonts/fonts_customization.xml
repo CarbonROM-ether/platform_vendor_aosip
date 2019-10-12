@@ -53,4 +53,14 @@
       <font weight="700" style="normal">Anaheim-Bold.ttf</font>
     </family>
     <alias name="anaheim-bold" to="anaheim" weight="700" />
+
+    <family customizationType="new-named-family" name="slate">
+      <font weight="400" style="normal">SlateProSans-Regular.ttf</font>
+      <font weight="400" style="italic">SlateProSans-Italic.ttf</font>
+      <font weight="500" style="normal">SlatePro-Medium.ttf</font>
+      <font weight="500" style="italic">SlatePro-MediumItalic.ttf</font>
+      <font weight="700" style="normal">SlatePro-Bold.ttf</font>
+      <font weight="700" style="italic">SlatePro-BoldItalic.ttf</font>
+    </family>
+    <alias name="slate-medium" to="slate" weight="500" />
 </fonts-modification>
