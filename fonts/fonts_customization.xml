@@ -63,4 +63,13 @@
       <font weight="700" style="italic">SlatePro-BoldItalic.ttf</font>
     </family>
     <alias name="slate-medium" to="slate" weight="500" />
+
+    <family customizationType="new-named-family" name="samsung">
+      <font weight="400" style="normal">Samsung-Regular.ttf</font>
+      <font weight="500" style="normal">Samsung-Medium.ttf</font>
+      <font weight="500" style="italic">Samsung-MediumItalic.ttf</font>
+      <font weight="700" style="normal">Samsung-Bold.ttf</font>
+      <font weight="700" style="italic">Samsung-BoldItalic.ttf</font>
+    </family>
+    <alias name="samsung-medium" to="samsung" weight="500" />
 </fonts-modification>
